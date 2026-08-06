@@ -1,0 +1,31 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.local
+.directory
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Browser & Live Server cache
+.live-server/
+.cache/
+
+# Future Node/React dependencies (just in case)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment secrets (Crucial for later FastAPI/Postgres work)
+.env
+*.env
+env/
+venv/
+ENV/
