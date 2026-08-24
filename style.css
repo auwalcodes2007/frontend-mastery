@@ -1,0 +1,23 @@
+:root {
+    --bg-color: ;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+
+.attribution { font-size: 0.6875rem; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
